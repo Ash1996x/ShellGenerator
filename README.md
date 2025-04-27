@@ -2,7 +2,7 @@
 
 ## Image Steganography Research Tool
 
-ShellyPng is an advanced steganography research tool that allows embedding PowerShell payloads within PNG images using LSB (Least Significant Bit) steganography techniques. This makes payloads virtually undetectable to casual observation and basic scanning tools.
+ShellyPng is an steganography tool that allows embedding PowerShell payloads within PNG images using LSB (Least Significant Bit) steganography techniques. This makes payloads virtually undetectable to casual observation and basic scanning tools.
 
 ## LEGAL DISCLAIMER 
 
